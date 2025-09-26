@@ -1,0 +1,1 @@
+Landing web para AMOHapp. Página de descarga e información sobre la app de cáncer de mama.
